@@ -4,10 +4,42 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.router {
+  margin-top: 200px !important;
+  padding: 15px;
+  
+  font-size: 30px;
+}
+
+.statistics {
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  background-color:#e9ecef;
+  padding-top: 20px;
+}
+
+.right {
+  font-size: 20px;
+  margin-bottom: 20px;
+  float: right;
+}
+
+.left {
+  font-size: 20px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
 }
