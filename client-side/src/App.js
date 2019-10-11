@@ -148,7 +148,7 @@ class App extends Component {
 
     return (
       <div className="container"> 
-      <button type="button" className="btn btn-primary" onClick={() => this.saveFiles()}>Pobierz</button>       
+      <button type="button" className="btn btn-primary" onClick={() => this.saveFiles()}>Download raports</button>       
 
         <RouterButtons filter={filter} onChangeView={this.changeView} />
         {filter === 'addCandidate' && <CandidateForm />}
