@@ -4,7 +4,7 @@ The project is a registration form for an IT job fair event.
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Demo project](#sdemo-project)
+* [Demo project](#demo-project)
 * [Build with](#build-with)
 * [Technologies](#technologies)
 * [Building Locally](#building-locally)
@@ -12,10 +12,10 @@ The project is a registration form for an IT job fair event.
 
 ## General info
 The application allows the user to register for the event, the most important factor during
-registering is the appropriate motivation. During the registration process, the participant can 
+registering is the appropriate motivation. During the registration process, the candidate can 
 choose whether to sign up for lectures and workshops. The role of the administrator is to select 
-the most motivated participants of the event and mark them in the form, the administrator can reject 
-the participant if he or she does not show willingness to participate in the project.
+the most motivated candidates of the event and mark them in the form, the administrator can reject 
+the candidate if he or she doesn't show willingness to participate in the project.
 The administrator can also download the candidates data directly to the .csv files.
 The project was created during the Corealate course.
 
