@@ -47,8 +47,8 @@ To get started building this application locally, be sure you have installed lat
 install the latest [Node.js](https://nodejs.org/en/download/) 10+ LTS version.
 
 ### Installation 
-* `git clone https://github.com/MiroslawBuszek/Event-Registration`
-* `cd event-registration`
+* `git clone https://github.com/MiroslawBuszek/Job-Fair-Registration`
+* `cd job-fair-registration`
 * `./server-side> npm install`
 * `./client-side> npm install`
 
